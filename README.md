@@ -1,6 +1,9 @@
-# Final project: EDA of Airbnb Rio de Janeiro listings (2021)
+# EDA of Airbnb Rio de Janeiro listings (2021)
+Created by Nicolás Llano Linares // Powered by [Jupyter Book](https://jupyterbook.org/)
 
 ![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
+
+---
 
 ## Description
 
@@ -31,4 +34,9 @@ I removed the Host name beforehand in order to guaranty anonymity while working 
 ## Comments
 
 I want to continue to work on some findings and adjust some visualizations which I am not so happy with. Also, there is a lot more to explore in this dataset: text analysis of the descriptions, correlations, etc. I'll continue to update this notebook during my learning process of Python and data analysis. 
+Thanks to Greg and the whole class. It was a pleasure learning and collaborating with all of you.
 
+If you have any comments, suggestions or just want to say hello:
+
+Twitter: [@enetreseles](https://twitter.com/enetreseles)  
+Are.na: [Nico3L](https://www.are.na/nico3l)
