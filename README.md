@@ -8,6 +8,14 @@ The data is available [here](http://insideairbnb.com/get-the-data.html)
 I used the 21 March 2021, listings file to work. 
 
 I removed the Host name beforehand in order to guaranty anonymity while working on the dataset — the file only have first names.
+
+## Guiding questions
+
+- Types of rentals avalaible by neighbourhood;
+- Distribution of rentals by neighbourhood;
+- Price ranges and distributions;
+- Average price by type of room and neighbourhood;
+- Most popular listings.
  
 ## Code
 
@@ -25,5 +33,5 @@ I removed the Host name beforehand in order to guaranty anonymity while working 
 
 ## Comments
 
-I want to continue to work on some findings and adjust some visualizations which I am not happy with. Also, there is a lot more to explore in this dataset. I'll continue to update this notebook during my learning process of Python and data analysis. 
+I want to continue to work on some findings and adjust some visualizations which I am not so happy with. Also, there is a lot more to explore in this dataset: text analysis of the descriptions, correlations, etc. I'll continue to update this notebook during my learning process of Python and data analysis. 
 
