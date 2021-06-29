@@ -17,6 +17,7 @@ I removed the Host name beforehand in order to guaranty anonymity while working 
 ## Prerequisites & Getting started
 
 - **None.** All libraries and packages used are in the notebook ready to be downloaded:
+
 	* numpy
 	* pandas
 	* matplotlib
