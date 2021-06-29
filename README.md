@@ -1,7 +1,5 @@
 # Final project: EDA of Airbnb Rio de Janeiro listings (2021)
 
-## Code
-
 ![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
 
 ## Description
