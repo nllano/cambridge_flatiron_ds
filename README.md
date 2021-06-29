@@ -1,4 +1,4 @@
-# EDA of Airbnb Rio de Janeiro listings (2021)
+# EDA — Airbnb Rio de Janeiro listings (2021)
 Created by Nicolás Llano Linares // Powered by [Jupyter Book](https://jupyterbook.org/)
 
 ![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
