@@ -1,5 +1,9 @@
 # Final project: EDA of Airbnb Rio de Janeiro listings (2021)
 
+## Code
+
+![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
+
 ## Description
 
 This an Exploratory Data Analysis (EDA) of Airbnb public data about rental listings in Rio de Janeiro, Brazil. The aim is to clean the data, explore patterns and visualize our findings and possible insights. 
@@ -17,14 +21,9 @@ I removed the Host name beforehand in order to guaranty anonymity while working 
 - Average price by type of room and neighbourhood;
 - Most popular listings.
  
-## Code
-
-![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
 ## Prerequisites & Getting started
 
-- **None.** All libraries and packages used are in the notebook ready to be downloaded:
+<u>None.</u> All libraries and packages used are in the notebook ready to be downloaded:
 
 	* numpy
 	* pandas
