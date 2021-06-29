@@ -24,7 +24,7 @@ I removed the Host name beforehand in order to guaranty anonymity while working 
  
 ## Prerequisites & Getting started
 
-<u>None.</u> All libraries and packages used are in the notebook ready to be downloaded:
+<u>None.</u> All libraries used are in the notebook ready to be downloaded:
 
 	* numpy
 	* pandas
